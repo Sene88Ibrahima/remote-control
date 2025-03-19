@@ -1,0 +1,599 @@
+[2025-03-05 22:37:32] Échec d'authentification pour  depuis 127.0.0.1:56237
+[2025-03-05 22:37:32] Client déconnecté: 127.0.0.1:56237
+[2025-03-05 22:37:52] Échec d'authentification pour destro/2803 depuis 127.0.0.1:56240
+[2025-03-05 22:37:52] Client déconnecté: 127.0.0.1:56240
+[2025-03-05 22:37:53] Échec d'authentification pour destro/2803 depuis 127.0.0.1:56241
+[2025-03-05 22:37:53] Client déconnecté: 127.0.0.1:56241
+[2025-03-05 22:37:53] Échec d'authentification pour destro/2803 depuis 127.0.0.1:56242
+[2025-03-05 22:37:53] Client déconnecté: 127.0.0.1:56242
+[2025-03-05 22:37:53] Échec d'authentification pour destro/2803 depuis 127.0.0.1:56243
+[2025-03-05 22:37:53] Client déconnecté: 127.0.0.1:56243
+[2025-03-05 22:37:54] Échec d'authentification pour destro/2803 depuis 127.0.0.1:56244
+[2025-03-05 22:37:54] Client déconnecté: 127.0.0.1:56244
+[2025-03-05 22:37:54] Échec d'authentification pour destro/2803 depuis 127.0.0.1:56245
+[2025-03-05 22:37:54] Client déconnecté: 127.0.0.1:56245
+[2025-03-05 22:37:54] Échec d'authentification pour destro/2803 depuis 127.0.0.1:56246
+[2025-03-05 22:37:54] Client déconnecté: 127.0.0.1:56246
+[2025-03-05 22:37:54] Échec d'authentification pour destro/2803 depuis 127.0.0.1:56247
+[2025-03-05 22:37:54] Client déconnecté: 127.0.0.1:56247
+[2025-03-05 22:38:04] Échec d'authentification pour destro depuis 127.0.0.1:56258
+[2025-03-05 22:38:04] Client déconnecté: 127.0.0.1:56258
+[2025-03-05 22:38:05] Échec d'authentification pour destro depuis 127.0.0.1:56260
+[2025-03-05 22:38:05] Client déconnecté: 127.0.0.1:56260
+[2025-03-05 22:38:05] Échec d'authentification pour destro depuis 127.0.0.1:56261
+[2025-03-05 22:38:05] Client déconnecté: 127.0.0.1:56261
+[2025-03-05 22:38:05] Échec d'authentification pour destro depuis 127.0.0.1:56263
+[2025-03-05 22:38:05] Client déconnecté: 127.0.0.1:56263
+[2025-03-05 22:38:06] Échec d'authentification pour destro depuis 127.0.0.1:56264
+[2025-03-05 22:38:06] Client déconnecté: 127.0.0.1:56264
+[2025-03-05 22:38:09] Échec d'authentification pour destro depuis 127.0.0.1:56271
+[2025-03-05 22:38:09] Client déconnecté: 127.0.0.1:56271
+[2025-03-05 22:38:10] Échec d'authentification pour destro depuis 127.0.0.1:56273
+[2025-03-05 22:38:10] Client déconnecté: 127.0.0.1:56273
+[2025-03-05 22:40:27] Authentification réussie pour admin depuis 127.0.0.1:56335
+[2025-03-05 22:40:38] Commande reçue de 127.0.0.1:56335: dir
+[2025-03-05 22:40:38] Résultat envoyé à 127.0.0.1:56335
+[2025-03-05 22:40:56] Commande reçue de 127.0.0.1:56335: cd javatest
+[2025-03-05 22:40:56] Résultat envoyé à 127.0.0.1:56335
+[2025-03-05 22:41:02] Commande reçue de 127.0.0.1:56335: dir
+[2025-03-05 22:41:02] Résultat envoyé à 127.0.0.1:56335
+[2025-03-05 22:41:06] Client déconnecté: 127.0.0.1:56335
+[2025-03-05 22:46:22] Échec d'authentification pour admin depuis 127.0.0.1:56452
+[2025-03-05 22:46:22] Client déconnecté: 127.0.0.1:56452
+[2025-03-05 22:46:28] Authentification réussie pour admin depuis 127.0.0.1:56453
+[2025-03-05 22:46:37] Commande reçue de 127.0.0.1:56453: upload fifasetup.ini
+[2025-03-05 22:46:37] Résultat envoyé à 127.0.0.1:56453
+[2025-03-05 22:47:02] Commande reçue de 127.0.0.1:56453: download fifasetup.ini
+[2025-03-05 22:47:02] Résultat envoyé à 127.0.0.1:56453
+[2025-03-05 23:12:43] Serveur démarré sur le port 12345
+[2025-03-05 23:13:03] Nouveau client connecté: 127.0.0.1
+[2025-03-05 23:13:03] Erreur pour le client 127.0.0.1:57002: Connection has closed: javax.net.ssl.SSLHandshakeException: (handshake_failure) No available authentication scheme
+[2025-03-05 23:13:04] Client déconnecté: 127.0.0.1:57002
+[2025-03-05 23:13:29] Nouveau client connecté: 127.0.0.1
+[2025-03-05 23:13:29] Erreur pour le client 127.0.0.1:57011: Connection has closed: javax.net.ssl.SSLHandshakeException: (handshake_failure) No available authentication scheme
+[2025-03-05 23:13:30] Client déconnecté: 127.0.0.1:57011
+[2025-03-05 23:24:05] Serveur démarré sur le port 12345
+[2025-03-05 23:24:32] Nouveau client connecté: 127.0.0.1
+[2025-03-05 23:24:32] Erreur pour le client 127.0.0.1:57182: Connection has closed: javax.net.ssl.SSLHandshakeException: (handshake_failure) no cipher suites in common
+[2025-03-05 23:24:33] Client déconnecté: 127.0.0.1:57182
+[2025-03-05 23:28:02] Serveur arrêté
+[2025-03-05 23:33:04] Serveur arrêté
+[2025-03-05 23:34:33] Serveur démarré sur le port 12345
+[2025-03-05 23:34:49] Nouveau client connecté: 127.0.0.1
+[2025-03-05 23:34:49] Authentification réussie pour admin depuis 127.0.0.1:57351
+[2025-03-05 23:34:52] Client déconnecté: 127.0.0.1:57351
+[2025-03-05 23:47:58] Serveur démarré sur le port 12345
+[2025-03-05 23:48:14] Nouveau client connecté: 127.0.0.1
+[2025-03-05 23:48:14] Échec d'authentification pour admin depuis 127.0.0.1:57656
+[2025-03-05 23:48:14] Client déconnecté: 127.0.0.1:57656
+[2025-03-05 23:48:28] Nouveau client connecté: 127.0.0.1
+[2025-03-05 23:48:28] Échec d'authentification pour admi depuis 127.0.0.1:57660
+[2025-03-05 23:48:28] Client déconnecté: 127.0.0.1:57660
+[2025-03-05 23:48:33] Nouveau client connecté: 127.0.0.1
+[2025-03-05 23:48:33] Authentification réussie pour admin depuis 127.0.0.1:57662
+[2025-03-05 23:48:38] Client déconnecté: 127.0.0.1:57662
+[2025-03-05 23:49:22] Nouveau client connecté: 10.106.127.141
+[2025-03-05 23:49:22] Authentification réussie pour admin depuis 10.106.127.141:57687
+[2025-03-05 23:50:02] Commande reçue de 10.106.127.141:57687: dir
+[2025-03-05 23:50:02] Résultat envoyé à 10.106.127.141:57687
+[2025-03-05 23:54:58] Serveur démarré sur le port 12345
+[2025-03-05 23:55:19] Nouveau client connecté: 127.0.0.1
+[2025-03-05 23:55:19] Authentification réussie pour admin depuis 127.0.0.1:57784
+[2025-03-05 23:55:26] Commande reçue de 127.0.0.1:57784: dir
+[2025-03-05 23:55:27] Résultat envoyé à 127.0.0.1:57784
+[2025-03-06 00:00:05] Client déconnecté: 127.0.0.1:57784
+[2025-03-06 00:00:21] Nouveau client connecté: 10.106.127.141
+[2025-03-06 00:00:21] Authentification réussie pour admin depuis 10.106.127.141:57884
+[2025-03-06 00:00:29] Commande reçue de 10.106.127.141:57884: dir
+[2025-03-06 00:00:29] Résultat envoyé à 10.106.127.141:57884
+[2025-03-06 00:03:51] Serveur démarré sur le port 12345
+[2025-03-06 00:04:13] Nouveau client connecté: 127.0.0.1
+[2025-03-06 00:04:13] Authentification réussie pour admin depuis 127.0.0.1:57982
+[2025-03-06 00:04:18] Commande reçue de 127.0.0.1:57982: dir
+[2025-03-06 00:04:18] Résultat envoyé à 127.0.0.1:57982
+[2025-03-06 00:04:27] Commande reçue de 127.0.0.1:57982: help
+[2025-03-06 00:04:27] Résultat envoyé à 127.0.0.1:57982
+[2025-03-06 00:04:43] Commande reçue de 127.0.0.1:57982: ver
+[2025-03-06 00:04:43] Résultat envoyé à 127.0.0.1:57982
+[2025-03-06 00:05:12] Commande reçue de 127.0.0.1:57982: tree
+[2025-03-06 00:05:12] Résultat envoyé à 127.0.0.1:57982
+[2025-03-06 00:05:35] Commande reçue de 127.0.0.1:57982: tasklist
+[2025-03-06 00:05:36] Résultat envoyé à 127.0.0.1:57982
+[2025-03-06 00:13:18] Serveur démarré sur le port 12345
+[2025-03-06 00:13:38] Nouveau client connecté: 127.0.0.1
+[2025-03-06 00:13:38] Authentification réussie pour admin depuis 127.0.0.1:58147
+[2025-03-06 00:13:45] Commande reçue de 127.0.0.1:58147: tree
+[2025-03-06 00:13:45] Résultat envoyé à 127.0.0.1:58147
+[2025-03-06 00:13:49] Client déconnecté: 127.0.0.1:58147
+[2025-03-06 00:17:13] Nouveau client connecté: 127.0.0.1
+[2025-03-06 00:17:13] Authentification réussie pour admin depuis 127.0.0.1:58232
+[2025-03-06 00:17:21] Commande reçue de 127.0.0.1:58232: dir
+[2025-03-06 00:17:21] Résultat envoyé à 127.0.0.1:58232
+[2025-03-06 00:17:29] Commande reçue de 127.0.0.1:58232: tree
+[2025-03-06 00:17:29] Résultat envoyé à 127.0.0.1:58232
+[2025-03-06 00:19:31] Serveur démarré sur le port 12345
+[2025-03-06 00:19:49] Nouveau client connecté: 127.0.0.1
+[2025-03-06 00:19:49] Authentification réussie pour admin depuis 127.0.0.1:58272
+[2025-03-06 00:20:01] Commande reçue de 127.0.0.1:58272: dir
+[2025-03-06 00:20:01] Résultat envoyé à 127.0.0.1:58272
+[2025-03-06 00:22:14] Serveur démarré sur le port 12345
+[2025-03-06 00:22:31] Nouveau client connecté: 127.0.0.1
+[2025-03-06 00:22:31] Authentification réussie pour admin depuis 127.0.0.1:58354
+[2025-03-06 00:22:37] Commande reçue de 127.0.0.1:58354: dir
+[2025-03-06 00:22:37] Résultat envoyé à 127.0.0.1:58354
+[2025-03-06 00:24:54] Serveur démarré sur le port 12345
+[2025-03-06 00:25:11] Nouveau client connecté: 127.0.0.1
+[2025-03-06 00:25:11] Authentification réussie pour admin depuis 127.0.0.1:58391
+[2025-03-06 00:25:16] Commande reçue de 127.0.0.1:58391: dir
+[2025-03-06 00:25:16] Résultat envoyé à 127.0.0.1:58391
+[2025-03-06 00:27:00] Serveur démarré sur le port 12345
+[2025-03-06 00:27:11] Nouveau client connecté: 127.0.0.1
+[2025-03-06 00:27:11] Authentification réussie pour admin depuis 127.0.0.1:58419
+[2025-03-06 00:27:17] Commande reçue de 127.0.0.1:58419: dir
+[2025-03-06 00:27:17] Résultat envoyé à 127.0.0.1:58419
+[2025-03-06 00:29:20] Serveur démarré sur le port 12345
+[2025-03-06 00:29:38] Nouveau client connecté: 127.0.0.1
+[2025-03-06 00:29:38] Authentification réussie pour admin depuis 127.0.0.1:58484
+[2025-03-06 00:29:46] Commande reçue de 127.0.0.1:58484: dir
+[2025-03-06 00:29:46] Résultat envoyé à 127.0.0.1:58484
+[2025-03-06 00:31:25] Serveur démarré sur le port 12345
+[2025-03-06 00:31:43] Nouveau client connecté: 127.0.0.1
+[2025-03-06 00:31:43] Authentification réussie pour admin depuis 127.0.0.1:58521
+[2025-03-06 00:31:49] Commande reçue de 127.0.0.1:58521: dir
+[2025-03-06 00:31:49] Résultat envoyé à 127.0.0.1:58521
+[2025-03-06 00:34:12] Serveur démarré sur le port 12345
+[2025-03-06 00:34:31] Nouveau client connecté: 127.0.0.1
+[2025-03-06 00:34:31] Authentification réussie pour admin depuis 127.0.0.1:58558
+[2025-03-06 00:34:37] Commande reçue de 127.0.0.1:58558: dir
+[2025-03-06 00:34:37] Résultat envoyé à 127.0.0.1:58558
+[2025-03-06 01:04:09] Erreur pour le client 127.0.0.1:58558: Connection reset
+[2025-03-06 01:04:10] Client déconnecté: 127.0.0.1:58558
+[2025-03-06 09:37:00] Serveur démarré sur le port 12345
+[2025-03-06 09:38:11] Nouveau client connecté: 10.106.127.141
+[2025-03-06 09:38:11] Authentification réussie pour admin depuis 10.106.127.141:59056
+[2025-03-06 09:38:27] Commande reçue de 10.106.127.141:59056: dir
+[2025-03-06 09:38:27] Résultat envoyé à 10.106.127.141:59056
+[2025-03-06 09:38:38] Commande reçue de 10.106.127.141:59056: tree
+[2025-03-06 09:38:38] Résultat envoyé à 10.106.127.141:59056
+[2025-03-06 09:38:49] Commande reçue de 10.106.127.141:59056: ver
+[2025-03-06 09:38:49] Résultat envoyé à 10.106.127.141:59056
+[2025-03-06 09:39:20] Erreur pour le client 10.106.127.141:59056: Connection reset
+[2025-03-06 09:39:20] Serveur arrêté
+[2025-03-06 09:39:20] Client déconnecté: 10.106.127.141:59056
+[2025-03-06 09:40:10] Serveur démarré sur le port 12345
+[2025-03-06 09:40:19] Nouveau client connecté: 127.0.0.1
+[2025-03-06 09:40:19] Authentification réussie pour admin depuis 127.0.0.1:59104
+[2025-03-06 09:40:24] Commande reçue de 127.0.0.1:59104: cd D
+[2025-03-06 09:40:24] Résultat envoyé à 127.0.0.1:59104
+[2025-03-06 09:40:35] Commande reçue de 127.0.0.1:59104: cd /D
+[2025-03-06 09:40:35] Résultat envoyé à 127.0.0.1:59104
+[2025-03-06 09:41:23] Commande reçue de 127.0.0.1:59104: dir
+[2025-03-06 09:41:23] Résultat envoyé à 127.0.0.1:59104
+[2025-03-06 09:41:36] Commande reçue de 127.0.0.1:59104: cd javatest
+[2025-03-06 09:41:36] Résultat envoyé à 127.0.0.1:59104
+[2025-03-06 09:41:40] Commande reçue de 127.0.0.1:59104: dir
+[2025-03-06 09:41:40] Résultat envoyé à 127.0.0.1:59104
+[2025-03-06 09:53:08] Serveur démarré sur le port 12345
+[2025-03-06 09:53:25] Nouveau client connecté: 127.0.0.1
+[2025-03-06 09:53:25] Authentification réussie pour admin depuis 127.0.0.1:59293
+[2025-03-06 09:53:35] Commande reçue de 127.0.0.1:59293: dir
+[2025-03-06 09:53:35] Résultat envoyé à 127.0.0.1:59293
+[2025-03-06 09:53:50] Commande reçue de 127.0.0.1:59293: cd javatest
+[2025-03-06 09:53:50] Résultat envoyé à 127.0.0.1:59293
+[2025-03-06 09:53:55] Commande reçue de 127.0.0.1:59293: dir
+[2025-03-06 09:53:55] Résultat envoyé à 127.0.0.1:59293
+[2025-03-06 09:55:43] Serveur démarré sur le port 12345
+[2025-03-06 09:56:00] Nouveau client connecté: 127.0.0.1
+[2025-03-06 09:56:00] Authentification réussie pour admin depuis 127.0.0.1:59329
+[2025-03-06 09:56:17] Commande reçue de 127.0.0.1:59329: upload config.ini
+[2025-03-06 09:56:17] Résultat envoyé à 127.0.0.1:59329
+[2025-03-06 09:56:23] Commande reçue de 127.0.0.1:59329: dir
+[2025-03-06 09:56:23] Résultat envoyé à 127.0.0.1:59329
+[2025-03-06 09:56:28] Commande reçue de 127.0.0.1:59329: dir
+[2025-03-06 09:56:28] Résultat envoyé à 127.0.0.1:59329
+[2025-03-06 09:57:05] Commande reçue de 127.0.0.1:59329: download conf
+[2025-03-06 09:57:05] Résultat envoyé à 127.0.0.1:59329
+[2025-03-06 10:00:12] Serveur démarré sur le port 12345
+[2025-03-06 10:00:26] Nouveau client connecté: 127.0.0.1
+[2025-03-06 10:00:26] Authentification réussie pour admin depuis 127.0.0.1:59381
+[2025-03-06 10:00:35] Commande reçue de 127.0.0.1:59381: dir
+[2025-03-06 10:00:35] Résultat envoyé à 127.0.0.1:59381
+[2025-03-06 10:00:48] Commande reçue de 127.0.0.1:59381: upload NBA 2K15.CT
+[2025-03-06 10:07:38] Serveur démarré sur le port 12345
+[2025-03-06 10:07:58] Nouveau client connecté: 127.0.0.1
+[2025-03-06 10:07:58] Authentification réussie pour admin depuis 127.0.0.1:59464
+[2025-03-06 10:08:03] Commande reçue de 127.0.0.1:59464: dir
+[2025-03-06 10:08:03] Résultat envoyé à 127.0.0.1:59464
+[2025-03-06 10:08:14] Commande reçue de 127.0.0.1:59464: upload keyboard_setting.csv
+[2025-03-06 10:11:01] Serveur démarré sur le port 12345
+[2025-03-06 10:11:17] Nouveau client connecté: 127.0.0.1
+[2025-03-06 10:11:17] Authentification réussie pour admin depuis 127.0.0.1:59527
+[2025-03-06 10:11:21] Commande reçue de 127.0.0.1:59527: dir
+[2025-03-06 10:11:21] Résultat envoyé à 127.0.0.1:59527
+[2025-03-06 10:11:33] Commande reçue de 127.0.0.1:59527: cd javatest
+[2025-03-06 10:11:33] Résultat envoyé à 127.0.0.1:59527
+[2025-03-06 10:11:38] Commande reçue de 127.0.0.1:59527: tree
+[2025-03-06 10:11:38] Résultat envoyé à 127.0.0.1:59527
+[2025-03-06 10:11:58] Commande reçue de 127.0.0.1:59527: upload NBA 2K15.CT
+[2025-03-06 10:15:11] Serveur démarré sur le port 12345
+[2025-03-06 10:15:27] Nouveau client connecté: 127.0.0.1
+[2025-03-06 10:15:27] Authentification réussie pour admin depuis 127.0.0.1:59580
+[2025-03-06 10:15:34] Commande reçue de 127.0.0.1:59580: dir
+[2025-03-06 10:15:34] Résultat envoyé à 127.0.0.1:59580
+[2025-03-06 10:15:44] Commande reçue de 127.0.0.1:59580: cd javatest
+[2025-03-06 10:15:44] Résultat envoyé à 127.0.0.1:59580
+[2025-03-06 10:15:48] Commande reçue de 127.0.0.1:59580: dir
+[2025-03-06 10:15:48] Résultat envoyé à 127.0.0.1:59580
+[2025-03-06 10:16:20] Commande reçue de 127.0.0.1:59580: upload Skyrim.ini
+[2025-03-06 10:21:00] Serveur démarré sur le port 12345
+[2025-03-06 10:21:16] Nouveau client connecté: 127.0.0.1
+[2025-03-06 10:21:16] Authentification réussie pour admin depuis 127.0.0.1:59654
+[2025-03-06 10:21:20] Commande reçue de 127.0.0.1:59654: dir
+[2025-03-06 10:21:21] Résultat envoyé à 127.0.0.1:59654
+[2025-03-06 10:21:39] Commande reçue de 127.0.0.1:59654: upload net.log
+[2025-03-06 10:22:18] Résultat envoyé à 127.0.0.1:59654
+[2025-03-06 10:22:18] Erreur pour le client 127.0.0.1:59654: Connection reset
+[2025-03-06 10:22:18] Client déconnecté: 127.0.0.1:59654
+[2025-03-06 18:25:58] Serveur démarré sur le port 12345
+[2025-03-06 18:26:12] Nouveau client connecté: 127.0.0.1
+[2025-03-06 18:26:12] Authentification réussie pour admin depuis 127.0.0.1:55297
+[2025-03-06 18:26:18] Commande reçue de 127.0.0.1:55297: dir
+[2025-03-06 18:26:18] Résultat envoyé à 127.0.0.1:55297
+[2025-03-06 18:26:33] Commande reçue de 127.0.0.1:55297: upload Proposition_WordPress.pdf
+[2025-03-06 18:27:33] Résultat envoyé à 127.0.0.1:55297
+[2025-03-06 18:27:33] Erreur pour le client 127.0.0.1:55297: Connection reset
+[2025-03-06 18:27:33] Client déconnecté: 127.0.0.1:55297
+[2025-03-06 18:28:07] Serveur arrêté
+[2025-03-06 18:46:28] Serveur démarré sur le port 12345
+[2025-03-06 18:46:53] Nouveau client connecté: 127.0.0.1
+[2025-03-06 18:46:53] Authentification réussie pour admin depuis 127.0.0.1:55455
+[2025-03-06 18:46:53] Commande reçue de 127.0.0.1:55455: list_files
+[2025-03-06 18:46:53] Résultat envoyé à 127.0.0.1:55455
+[2025-03-06 18:47:03] Commande reçue de 127.0.0.1:55455: list_files
+[2025-03-06 18:47:03] Résultat envoyé à 127.0.0.1:55455
+[2025-03-06 18:47:04] Commande reçue de 127.0.0.1:55455: list_files
+[2025-03-06 18:47:04] Résultat envoyé à 127.0.0.1:55455
+[2025-03-06 18:47:40] Commande reçue de 127.0.0.1:55455: download Skyrim.ini
+[2025-03-06 18:47:40] Résultat envoyé à 127.0.0.1:55455
+[2025-03-06 18:49:30] Serveur démarré sur le port 12345
+[2025-03-06 18:49:44] Nouveau client connecté: 127.0.0.1
+[2025-03-06 18:49:44] Authentification réussie pour admin depuis 127.0.0.1:55486
+[2025-03-06 18:49:44] Commande reçue de 127.0.0.1:55486: list_files
+[2025-03-06 18:49:44] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:50:10] Commande reçue de 127.0.0.1:55486: upload NBA 2K15.CT
+[2025-03-06 18:50:10] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:50:10] Commande reçue de 127.0.0.1:55486: list_files
+[2025-03-06 18:50:10] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:50:33] Commande reçue de 127.0.0.1:55486: upload server_config.sii
+[2025-03-06 18:50:33] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:50:33] Commande reçue de 127.0.0.1:55486: list_files
+[2025-03-06 18:50:33] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:50:41] Commande reçue de 127.0.0.1:55486: list_files
+[2025-03-06 18:50:41] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:50:46] Commande reçue de 127.0.0.1:55486: upload .history.sii
+[2025-03-06 18:50:46] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:50:46] Commande reçue de 127.0.0.1:55486: list_files
+[2025-03-06 18:50:46] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:51:05] Commande reçue de 127.0.0.1:55486: cd javatest
+[2025-03-06 18:51:05] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:51:10] Commande reçue de 127.0.0.1:55486: dir
+[2025-03-06 18:51:11] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:51:16] Commande reçue de 127.0.0.1:55486: upload live_streams.sii
+[2025-03-06 18:54:42] Résultat envoyé à 127.0.0.1:55486
+[2025-03-06 18:54:42] Erreur pour le client 127.0.0.1:55486: Connection reset
+[2025-03-06 18:54:42] Client déconnecté: 127.0.0.1:55486
+[2025-03-06 18:55:43] Serveur arrêté
+[2025-03-06 19:04:12] Serveur démarré sur le port 12345
+[2025-03-06 19:04:30] Nouveau client connecté: 127.0.0.1
+[2025-03-06 19:04:30] Authentification réussie pour admin depuis 127.0.0.1:55631
+[2025-03-06 19:07:27] Client déconnecté: 127.0.0.1:55631
+[2025-03-06 19:11:24] Serveur démarré sur le port 12345
+[2025-03-06 19:11:34] Nouveau client connecté: 127.0.0.1
+[2025-03-06 19:11:34] Authentification réussie pour admin depuis 127.0.0.1:55742
+[2025-03-06 19:18:04] Serveur démarré sur le port 12345
+[2025-03-06 19:18:19] Nouveau client connecté: 127.0.0.1
+[2025-03-06 19:18:19] Authentification réussie pour admin depuis 127.0.0.1:55808
+[2025-03-06 19:38:16] Serveur démarré sur le port 12345
+[2025-03-06 19:38:35] Nouveau client connecté: 127.0.0.1
+[2025-03-06 19:38:35] Authentification réussie pour admin depuis 127.0.0.1:55949
+[2025-03-06 19:43:09] Serveur démarré sur le port 12345
+[2025-03-06 19:43:20] Nouveau client connecté: 127.0.0.1
+[2025-03-06 19:43:20] Authentification réussie pour admin depuis 127.0.0.1:56015
+[2025-03-06 19:54:56] Serveur arrêté
+[2025-03-06 19:54:56] Client déconnecté: 127.0.0.1:56015
+[2025-03-06 20:02:33] Serveur démarré sur le port 12345
+[2025-03-06 20:02:33] Serveur arrêté
+[2025-03-06 20:02:33] Serveur démarré sur le port 12345
+[2025-03-06 20:02:45] Nouveau client connecté: 127.0.0.1
+[2025-03-06 20:02:45] Authentification réussie pour admin depuis 127.0.0.1:56155
+[2025-03-06 20:05:37] Serveur démarré sur le port 12345
+[2025-03-06 20:05:50] Nouveau client connecté: 127.0.0.1
+[2025-03-06 20:05:50] Authentification réussie pour admin depuis 127.0.0.1:56237
+[2025-03-06 20:14:09] Serveur démarré sur le port 12345
+[2025-03-06 20:14:24] Nouveau client connecté: 127.0.0.1
+[2025-03-06 20:14:24] Authentification réussie pour admin depuis 127.0.0.1:56371
+[2025-03-06 20:16:10] Client déconnecté: 127.0.0.1:56371
+[2025-03-06 20:17:43] Serveur démarré sur le port 12345
+[2025-03-06 20:18:02] Nouveau client connecté: 127.0.0.1
+[2025-03-06 20:18:02] Authentification réussie pour admin depuis 127.0.0.1:56414
+[2025-03-06 20:20:51] Serveur démarré sur le port 12345
+[2025-03-06 20:21:01] Nouveau client connecté: 127.0.0.1
+[2025-03-06 20:21:01] Authentification réussie pour admin depuis 127.0.0.1:56444
+[2025-03-06 20:26:55] Serveur démarré sur le port 12345
+[2025-03-06 20:27:14] Nouveau client connecté: 127.0.0.1
+[2025-03-06 20:27:14] Authentification réussie pour admin depuis 127.0.0.1:56550
+[2025-03-06 20:31:24] Serveur démarré sur le port 12345
+[2025-03-06 20:31:44] Nouveau client connecté: 127.0.0.1
+[2025-03-06 20:31:44] Authentification réussie pour admin depuis 127.0.0.1:56599
+[2025-03-06 20:33:04] Client déconnecté: 127.0.0.1:56599
+[2025-03-06 20:36:45] Serveur démarré sur le port 12345
+[2025-03-06 20:37:05] Nouveau client connecté: 127.0.0.1
+[2025-03-06 20:37:05] Authentification réussie pour admin depuis 127.0.0.1:56653
+[2025-03-06 20:44:03] Serveur démarré sur le port 12345
+[2025-03-06 20:44:22] Nouveau client connecté: 127.0.0.1
+[2025-03-06 20:44:22] Authentification réussie pour admin depuis 127.0.0.1:56738
+[2025-03-06 20:46:55] Client déconnecté: 127.0.0.1:56738
+[2025-03-06 20:48:59] Serveur démarré sur le port 12345
+[2025-03-06 20:49:15] Nouveau client connecté: 127.0.0.1
+[2025-03-06 20:49:15] Authentification réussie pour admin depuis 127.0.0.1:56792
+[2025-03-06 20:49:15] Commande reçue de 127.0.0.1:56792: list_files
+[2025-03-06 20:49:36] Commande reçue de 127.0.0.1:56792: dir
+[2025-03-06 20:51:19] Commande reçue de 127.0.0.1:56792: ver
+[2025-03-06 22:26:08] Serveur démarré sur le port 12345
+[2025-03-06 22:26:21] Nouveau client connecté: 127.0.0.1
+[2025-03-06 22:26:21] Authentification réussie pour admin depuis 127.0.0.1:58050
+[2025-03-06 22:26:21] Commande reçue de 127.0.0.1:58050: list_files
+[2025-03-06 22:26:23] Commande reçue de 127.0.0.1:58050: list_files
+[2025-03-06 22:26:45] Client déconnecté: 127.0.0.1:58050
+[2025-03-06 22:27:06] Serveur démarré sur le port 12345
+[2025-03-06 22:27:21] Nouveau client connecté: 127.0.0.1
+[2025-03-06 22:27:21] Authentification réussie pour admin depuis 127.0.0.1:58070
+[2025-03-06 22:27:21] Connexion de 127.0.0.1:58070
+[2025-03-06 22:27:21] Commande reçue de 127.0.0.1:58070: list_files
+[2025-03-06 22:27:21] Commande reçue de 127.0.0.1:58070: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-06 22:27:31] Commande reçue de 127.0.0.1:58070: ver
+[2025-03-06 22:27:31] Commande reçue de 127.0.0.1:58070: Résultat de 'ver' (exécuté en 0,09s):
+Microsoft Windows [version 10.0.22631.4602]
+[2025-03-06 22:27:40] Commande reçue de 127.0.0.1:58070: dir
+[2025-03-06 22:27:40] Commande reçue de 127.0.0.1:58070: Résultat de 'dir' (exécuté en 0,08s):
+Le volume dans le lecteur C n'a pas de nom.
+ Le num�ro de s�rie du volume est F865-6309
+ R�pertoire de C:\Users\destr\Desktop\projet diop
+06/03/2025  19:15    <DIR>          .
+06/03/2025  22:25    <DIR>          ..
+06/03/2025  19:16    <DIR>          javatest
+06/03/2025  10:21                 0 net.log
+05/03/2025  21:59               594 pom.xml
+05/03/2025  22:50             2�734 server.keystore
+06/03/2025  22:27            23�686 server_logs.txt
+05/03/2025  22:57    <DIR>          src
+06/03/2025  19:22    <DIR>          target
+06/03/2025  09:56    <DIR>          uploads
+               4 fichier(s)           27�014 octets
+               6 R�p(s)  27�196�739�584 octets libres
+[2025-03-06 22:28:10] Commande reçue de 127.0.0.1:58070: download uploads
+[2025-03-06 22:28:10] Commande reçue de 127.0.0.1:58070: Résultat de 'download uploads' (exécuté en 0,00s):
+
+[2025-03-06 22:37:21] Serveur démarré sur le port 12345
+[2025-03-06 22:37:34] Nouveau client connecté: 127.0.0.1
+[2025-03-06 22:37:35] Authentification réussie pour admin depuis 127.0.0.1:58242
+[2025-03-06 22:37:35] Connexion de 127.0.0.1:58242
+[2025-03-06 22:37:35] Commande reçue de 127.0.0.1:58242: list_files
+[2025-03-06 22:37:35] Commande reçue de 127.0.0.1:58242: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-06 22:37:42] Commande reçue de 127.0.0.1:58242: tree
+[2025-03-06 22:37:42] Commande reçue de 127.0.0.1:58242: Résultat de 'tree' (exécuté en 0,12s):
+Structure du dossier
+Le num�ro de s�rie du volume est F865-6309
+C:.
++---javatest
++---src
+�   +---client
+�   +---common
+�   +---server
++---target
+�   +---classes
+�   �   +---common
+�   +---test-classes
++---uploads
+[2025-03-06 22:37:46] Commande reçue de 127.0.0.1:58242: ver
+[2025-03-06 22:37:46] Commande reçue de 127.0.0.1:58242: Résultat de 'ver' (exécuté en 0,08s):
+Microsoft Windows [version 10.0.22631.4602]
+[2025-03-06 22:37:50] Commande reçue de 127.0.0.1:58242: dir
+[2025-03-06 22:37:50] Commande reçue de 127.0.0.1:58242: Résultat de 'dir' (exécuté en 0,09s):
+Le volume dans le lecteur C n'a pas de nom.
+ Le num�ro de s�rie du volume est F865-6309
+ R�pertoire de C:\Users\destr\Desktop\projet diop
+06/03/2025  19:15    <DIR>          .
+06/03/2025  22:28    <DIR>          ..
+06/03/2025  19:16    <DIR>          javatest
+06/03/2025  10:21                 0 net.log
+05/03/2025  21:59               594 pom.xml
+05/03/2025  22:50             2�734 server.keystore
+06/03/2025  22:37            25�382 server_logs.txt
+05/03/2025  22:57    <DIR>          src
+06/03/2025  19:22    <DIR>          target
+06/03/2025  09:56    <DIR>          uploads
+               4 fichier(s)           28�710 octets
+               6 R�p(s)  27�187�810�304 octets libres
+[2025-03-06 22:38:07] Commande reçue de 127.0.0.1:58242: cd target
+[2025-03-06 22:38:07] Commande reçue de 127.0.0.1:58242: Résultat de 'cd target' (exécuté en 0,00s):
+
+[2025-03-06 22:38:12] Commande reçue de 127.0.0.1:58242: dir
+[2025-03-06 22:38:12] Commande reçue de 127.0.0.1:58242: Résultat de 'dir' (exécuté en 0,12s):
+Le volume dans le lecteur C n'a pas de nom.
+ Le num�ro de s�rie du volume est F865-6309
+ R�pertoire de C:\Users\destr\Desktop\projet diop\target
+06/03/2025  19:22    <DIR>          .
+06/03/2025  19:15    <DIR>          ..
+06/03/2025  00:03    <DIR>          classes
+06/03/2025  19:22             5�798 session_1730065715_Page231.epage
+06/03/2025  19:18             5�798 session_1730065715_Page667.epage
+06/03/2025  09:36    <DIR>          test-classes
+               2 fichier(s)           11�596 octets
+               4 R�p(s)  27�187�810�304 octets libres
+[2025-03-06 22:38:16] Commande reçue de 127.0.0.1:58242: list_files
+[2025-03-06 22:38:16] Commande reçue de 127.0.0.1:58242: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-06 22:38:26] Commande reçue de 127.0.0.1:58242: download session_1730065715_Page231.epage
+[2025-03-06 22:38:26] Commande reçue de 127.0.0.1:58242: Téléchargement du fichier: session_1730065715_Page231.epage
+[2025-03-06 22:38:26] Commande reçue de 127.0.0.1:58242: Résultat de 'download session_1730065715_Page231.epage' (exécuté en 0,10s):
+
+[2025-03-06 22:39:20] Commande reçue de 127.0.0.1:58242: cd ..
+[2025-03-06 22:39:20] Commande reçue de 127.0.0.1:58242: Résultat de 'cd ..' (exécuté en 0,00s):
+
+[2025-03-06 22:39:24] Commande reçue de 127.0.0.1:58242: dir
+[2025-03-06 22:39:24] Commande reçue de 127.0.0.1:58242: Résultat de 'dir' (exécuté en 0,08s):
+Le volume dans le lecteur C n'a pas de nom.
+ Le num�ro de s�rie du volume est F865-6309
+ R�pertoire de C:\Users\destr\Desktop\projet diop
+06/03/2025  19:15    <DIR>          .
+06/03/2025  22:39    <DIR>          ..
+06/03/2025  19:16    <DIR>          javatest
+06/03/2025  10:21                 0 net.log
+05/03/2025  21:59               594 pom.xml
+05/03/2025  22:50             2�734 server.keystore
+06/03/2025  22:38            28�310 server_logs.txt
+05/03/2025  22:57    <DIR>          src
+06/03/2025  19:22    <DIR>          target
+06/03/2025  09:56    <DIR>          uploads
+               4 fichier(s)           31�638 octets
+               6 R�p(s)  27�186�655�232 octets libres
+[2025-03-06 22:39:27] Commande reçue de 127.0.0.1:58242: list_files
+[2025-03-06 22:39:27] Commande reçue de 127.0.0.1:58242: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-06 22:39:49] Commande reçue de 127.0.0.1:58242: download net.log
+[2025-03-06 22:39:50] Commande reçue de 127.0.0.1:58242: Téléchargement du fichier: net.log
+[2025-03-06 22:39:50] Commande reçue de 127.0.0.1:58242: Résultat de 'download net.log' (exécuté en 0,06s):
+
+[2025-03-06 22:43:14] Déconnexion de 127.0.0.1:58242
+[2025-03-06 22:43:36] Serveur démarré sur le port 12345
+[2025-03-06 22:43:51] Nouveau client connecté: 127.0.0.1
+[2025-03-06 22:43:51] Authentification réussie pour admin depuis 127.0.0.1:58374
+[2025-03-06 22:43:51] Connexion de 127.0.0.1:58374
+[2025-03-06 22:43:51] Commande reçue de 127.0.0.1:58374: list_files
+[2025-03-06 22:43:51] Commande reçue de 127.0.0.1:58374: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-06 22:44:08] Commande reçue de 127.0.0.1:58374: download server_logs.txt
+[2025-03-06 22:44:08] Commande reçue de 127.0.0.1:58374: Téléchargement du fichier: server_logs.txt
+[2025-03-06 22:44:08] Commande reçue de 127.0.0.1:58374: Résultat de 'download server_logs.txt' (exécuté en 0,13s):
+
+[2025-03-06 22:47:08] Serveur démarré sur le port 12345
+[2025-03-06 22:47:27] Nouveau client connecté: 127.0.0.1
+[2025-03-06 22:47:27] Authentification réussie pour admin depuis 127.0.0.1:58458
+[2025-03-06 22:47:27] Connexion de 127.0.0.1:58458
+[2025-03-06 22:47:27] Commande reçue de 127.0.0.1:58458: list_files
+[2025-03-06 22:47:27] Commande reçue de 127.0.0.1:58458: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-06 22:47:43] Commande reçue de 127.0.0.1:58458: download server_logs.txt
+[2025-03-06 22:47:43] Commande reçue de 127.0.0.1:58458: Téléchargement du fichier: server_logs.txt
+[2025-03-06 22:47:43] Commande reçue de 127.0.0.1:58458: Résultat de 'download server_logs.txt' (exécuté en 0,15s):
+
+[2025-03-06 22:51:32] Serveur démarré sur le port 12345
+[2025-03-06 22:51:53] Nouveau client connecté: 127.0.0.1
+[2025-03-06 22:51:53] Authentification réussie pour admin depuis 127.0.0.1:58529
+[2025-03-06 22:51:53] Connexion de 127.0.0.1:58529
+[2025-03-06 22:51:53] Commande reçue de 127.0.0.1:58529: list_files
+[2025-03-06 22:51:53] Commande reçue de 127.0.0.1:58529: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-06 22:52:04] Commande reçue de 127.0.0.1:58529: download net.log
+[2025-03-06 22:52:05] Commande reçue de 127.0.0.1:58529: Téléchargement du fichier: net.log
+[2025-03-06 22:52:05] Commande reçue de 127.0.0.1:58529: Résultat de 'download net.log' (exécuté en 0,21s):
+
+[2025-03-06 22:53:01] Commande reçue de 127.0.0.1:58529: download server_logs.txt
+[2025-03-06 22:53:01] Commande reçue de 127.0.0.1:58529: Téléchargement du fichier: server_logs.txt
+[2025-03-06 22:53:01] Commande reçue de 127.0.0.1:58529: Résultat de 'download server_logs.txt' (exécuté en 0,04s):
+
+[2025-03-06 22:53:42] Déconnexion de 127.0.0.1:58529
+[2025-03-06 22:57:36] Serveur démarré sur le port 12345
+[2025-03-06 22:58:46] Nouveau client connecté: 10.106.127.158
+[2025-03-06 22:58:46] Authentification réussie pour admin depuis 10.106.127.158:54331
+[2025-03-06 22:58:46] Connexion de 10.106.127.158:54331
+[2025-03-06 22:58:46] Commande reçue de 10.106.127.158:54331: list_files
+[2025-03-06 22:58:46] Commande reçue de 10.106.127.158:54331: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-06 22:59:25] Commande reçue de 10.106.127.158:54331: dir
+[2025-03-06 22:59:25] Commande reçue de 10.106.127.158:54331: Résultat de 'dir' (exécuté en 0,10s):
+Le volume dans le lecteur C n'a pas de nom.
+ Le num�ro de s�rie du volume est F865-6309
+ R�pertoire de C:\Users\destr\Desktop\projet diop
+06/03/2025  19:15    <DIR>          .
+06/03/2025  22:52    <DIR>          ..
+06/03/2025  19:16    <DIR>          javatest
+06/03/2025  10:21                 0 net.log
+05/03/2025  21:59               594 pom.xml
+05/03/2025  22:50             2�734 server.keystore
+06/03/2025  22:58            32�885 server_logs.txt
+05/03/2025  22:57    <DIR>          src
+06/03/2025  19:22    <DIR>          target
+06/03/2025  09:56    <DIR>          uploads
+               4 fichier(s)           36�213 octets
+               6 R�p(s)  27�187�970�048 octets libres
+[2025-03-06 22:59:43] Commande reçue de 10.106.127.158:54331: tree
+[2025-03-06 22:59:43] Commande reçue de 10.106.127.158:54331: Résultat de 'tree' (exécuté en 0,11s):
+Structure du dossier
+Le num�ro de s�rie du volume est F865-6309
+C:.
++---javatest
++---src
+�   +---client
+�   +---common
+�   +---server
++---target
+�   +---classes
+�   �   +---common
+�   +---test-classes
++---uploads
+[2025-03-06 23:00:17] Commande reçue de 10.106.127.158:54331: upload Emploi du temps DIC-TR-2_.pdf
+[2025-03-06 23:00:18] Commande reçue de 10.106.127.158:54331: Résultat de 'upload Emploi du temps DIC-TR-2_.pdf' (exécuté en 0,04s):
+
+[2025-03-06 23:00:18] Commande reçue de 10.106.127.158:54331: list_files
+[2025-03-06 23:00:18] Commande reçue de 10.106.127.158:54331: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-07 12:17:04] Serveur démarré sur le port 12345
+[2025-03-07 12:17:28] Nouveau client connecté: 127.0.0.1
+[2025-03-07 12:17:28] Authentification réussie pour admin depuis 127.0.0.1:59967
+[2025-03-07 12:17:28] Connexion de 127.0.0.1:59967
+[2025-03-07 12:17:28] Commande reçue de 127.0.0.1:59967: list_files
+[2025-03-07 12:17:28] Commande reçue de 127.0.0.1:59967: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-07 12:17:35] Commande reçue de 127.0.0.1:59967: dir
+[2025-03-07 12:17:36] Commande reçue de 127.0.0.1:59967: Résultat de 'dir' (exécuté en 0,13s):
+Le volume dans le lecteur C n'a pas de nom.
+ Le num�ro de s�rie du volume est F865-6309
+ R�pertoire de C:\Users\destr\Desktop\projet diop
+06/03/2025  23:00    <DIR>          .
+06/03/2025  22:52    <DIR>          ..
+06/03/2025  23:00            23�267 Emploi du temps DIC-TR-2_.pdf
+06/03/2025  19:16    <DIR>          javatest
+06/03/2025  10:21                 0 net.log
+05/03/2025  21:59               594 pom.xml
+05/03/2025  22:50             2�734 server.keystore
+07/03/2025  12:17            35�028 server_logs.txt
+05/03/2025  22:57    <DIR>          src
+06/03/2025  19:22    <DIR>          target
+06/03/2025  09:56    <DIR>          uploads
+               5 fichier(s)           61�623 octets
+               6 R�p(s)  27�102�851�072 octets libres
+[2025-03-07 12:17:45] Commande reçue de 127.0.0.1:59967: ver
+[2025-03-07 12:17:45] Commande reçue de 127.0.0.1:59967: Résultat de 'ver' (exécuté en 0,20s):
+Microsoft Windows [version 10.0.22631.4602]
+[2025-03-07 12:18:01] Commande reçue de 127.0.0.1:59967: upload keyboard_setting.ini
+[2025-03-07 12:18:01] Commande reçue de 127.0.0.1:59967: Résultat de 'upload keyboard_setting.ini' (exécuté en 0,26s):
+
+[2025-03-07 12:18:01] Commande reçue de 127.0.0.1:59967: list_files
+[2025-03-07 12:18:01] Commande reçue de 127.0.0.1:59967: Résultat de 'list_files' (exécuté en 0,04s):
+
+[2025-03-07 12:18:28] Commande reçue de 127.0.0.1:59967: download server_logs.txt
+[2025-03-07 12:18:28] Commande reçue de 127.0.0.1:59967: Téléchargement du fichier: server_logs.txt
+[2025-03-07 12:18:28] Commande reçue de 127.0.0.1:59967: Résultat de 'download server_logs.txt' (exécuté en 0,03s):
+
+[2025-03-07 12:18:47] Déconnexion de 127.0.0.1:59967
+[2025-03-07 12:19:07] Nouveau client connecté: 10.106.127.141
+[2025-03-07 12:19:07] Authentification réussie pour admin depuis 10.106.127.141:59976
+[2025-03-07 12:19:07] Connexion de 10.106.127.141:59976
+[2025-03-07 12:19:07] Commande reçue de 10.106.127.141:59976: list_files
+[2025-03-07 12:19:07] Commande reçue de 10.106.127.141:59976: Résultat de 'list_files' (exécuté en 0,00s):
+
+[2025-03-07 12:19:23] Déconnexion de 10.106.127.141:59976

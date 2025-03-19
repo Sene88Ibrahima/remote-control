@@ -1,0 +1,31 @@
+# Fichiers compilés
+target/
+*.class
+
+# Fichiers de configuration
+*.jks
+config.ini
+
+# Fichiers de logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Fichiers de build
+build/
+out/
+bin/
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*~ 
