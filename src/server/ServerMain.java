@@ -1,3 +1,5 @@
+package server;
+import server.ServerGUI;
 public class ServerMain {
     public static void main(String[] args) {
         int port = 12345;
