@@ -11,6 +11,7 @@
 8. [Développement](#développement)
 9. [Dépannage](#dépannage)
 10. [Documentation technique](#documentation-technique)
+11. [Contributeurs](#contributeurs)
 
 ## Vue d'ensemble
 
@@ -306,3 +307,8 @@ DEBUG   : Informations de débogage
 
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails. 
+
+## Contributeurs 
+- Magatte DIAWARA : magui245 
+- Ibrahima SENE : Sene88Ibrahima
+- Abdou Aziz SY : Abdou-Aziz-Sy
