@@ -12,7 +12,7 @@
 9. [Dépannage](#dépannage)
 10. [Documentation technique](#documentation-technique)
 11. [Contributeurs](#contributeurs)
-12. [Vidéo de présentation](#vidéo-de-présentation)
+12. [Vidéo de présentation](#-vidéo-de-présentation)
 
 ## Vue d'ensemble
 
@@ -315,4 +315,4 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 - Abdou Aziz SY : Abdou-Aziz-Sy
 
 ## 🎥 Vidéo de présentation
-[Lien vers la vidéo YouTube de présentation](https://youtube.com/votre-video)
+- [Lien vers la vidéo YouTube de présentation](https://youtube.com/votre-video)
