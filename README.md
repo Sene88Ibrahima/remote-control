@@ -315,4 +315,4 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 - Abdou Aziz SY : Abdou-Aziz-Sy
 
 ## 🎥 Vidéo de présentation
-- https://youtu.be/99SPZjDkdoo
+[Lien vers la vidéo YouTube de présentation] -> https://youtu.be/99SPZjDkdoo
